@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Delete Your Account - TradePool</title>
+<style>
+body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;max-width:760px;margin:0 auto;padding:32px 20px;line-height:1.6;color:#1a1a1a;background:#fff}
+h1{font-size:28px;margin-bottom:4px}
+h2{font-size:19px;margin-top:32px}
+.meta{color:#5c5c5c;font-size:14px}
+.box{border:1px solid #c4c4c4;border-radius:12px;padding:16px 20px;background:#f4f4f4}
+a{color:#1a1a1a}
+li{margin-bottom:6px}
+footer{margin-top:48px;padding-top:16px;border-top:1px solid #e2e2e2;font-size:14px;color:#5c5c5c}
+</style>
+</head>
+<body>
+<h1>Delete Your TradePool Account</h1>
+<p class="meta">TradePool by [COMPANY LEGAL NAME]</p>
+
+<p>You can delete your TradePool account and the data linked to it at any time, in either of the two ways below.</p>
+
+<h2>Option 1: Delete inside the app</h2>
+<ol>
+<li>Open TradePool and sign in.</li>
+<li>Go to the <strong>Profile</strong> tab.</li>
+<li>Tap <strong>Delete account</strong>.</li>
+<li>Confirm. Your account is deleted and you are signed out.</li>
+</ol>
+
+<h2>Option 2: Request deletion by email</h2>
+<div class="box">
+<p>Send an email to <a href="mailto:appsupport@startumafrica.com?subject=TradePool%20account%20deletion%20request">appsupport@startumafrica.com</a> with the subject <strong>"TradePool account deletion request"</strong>.</p>
+<p>Send it from the email address you use to sign in to TradePool (or include that email address and your @username), so we can confirm the account is yours.</p>
+</div>
+<p>We will confirm your request and complete the deletion within <strong>30 days</strong>.</p>
+
+<h2>What we delete</h2>
+<ul>
+<li>Your account and login details.</li>
+<li>Your profile: display name, username, bio, email, phone number, profile photo, trading styles and experience.</li>
+<li>Channels you own, including their signals, banner and avatar images, chat messages and members list.</li>
+<li>Your feed posts and images, comments, chat messages and images, and reviews.</li>
+<li>Your likes, hearts, followed signals, channel memberships and feed view records.</li>
+<li>Your push-notification device tokens.</li>
+</ul>
+
+<h2>What we may keep</h2>
+<ul>
+<li>Reports of rule violations (including reports about your account) may be kept for a limited time where needed for user safety, fraud prevention or legal compliance.</li>
+<li>Information we are required to keep by law.</li>
+<li>Copies in routine system backups, which are overwritten on a rolling schedule and are not used to restore deleted accounts.</li>
+</ul>
+<p>Deleting your account cannot be undone. Content that other users already copied or saved outside TradePool is outside our control.</p>
+
+<h2>Questions</h2>
+<p>Email <a href="mailto:appsupport@startumafrica.com">appsupport@startumafrica.com</a>. See also our <a href="privacy.html">Privacy Policy</a>.</p>
+
+<footer>
+<a href="privacy.html">Privacy Policy</a> &middot; <a href="terms.html">Terms of Use</a> &middot; <a href="disclaimer.html">Risk Disclaimer</a> &middot; <a href="delete-account.html">Delete Account</a>
+</footer>
+</body>
+</html>
