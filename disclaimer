@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trading Risk Disclaimer - TradePool</title>
+<style>
+body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;max-width:760px;margin:0 auto;padding:32px 20px;line-height:1.6;color:#1a1a1a;background:#fff}
+h1{font-size:28px;margin-bottom:4px}
+h2{font-size:19px;margin-top:32px}
+.meta{color:#5c5c5c;font-size:14px}
+.notice{border:1px solid #c4c4c4;border-radius:12px;padding:16px 20px;background:#f4f4f4}
+a{color:#1a1a1a}
+li{margin-bottom:6px}
+footer{margin-top:48px;padding-top:16px;border-top:1px solid #e2e2e2;font-size:14px;color:#5c5c5c}
+</style>
+</head>
+<body>
+<h1>Trading Risk Disclaimer</h1>
+<p class="meta">TradePool &middot; Effective date: November 8, 2026</p>
+
+<div class="notice">
+<p><strong>Trading foreign exchange (forex), CFDs, indices, gold and other leveraged products carries a high level of risk and is not suitable for everyone. You can lose some or all of the money you trade. Only trade with money you can afford to lose.</strong></p>
+</div>
+
+<h2>1. Signals are not licensed advice</h2>
+<p>Signals, analysis, posts, chat messages and reviews on TradePool are created by individual users. They are personal opinions and are shared for information and discussion only. They are <strong>not</strong> financial, investment, legal or tax advice, and they are not a recommendation to buy or sell anything.</p>
+<p>Channel owners and users on TradePool are generally <strong>not</strong> licensed or regulated financial advisers. TradePool and [COMPANY LEGAL NAME] are not brokers or investment advisers, and do not execute trades or hold funds.</p>
+
+<h2>2. No guarantee of profit</h2>
+<ul>
+<li>No signal, strategy or channel is guaranteed to make money.</li>
+<li>Past results, win rates, ratings, reviews and member counts do not predict future results.</li>
+<li>Entry, stop-loss (SL) and take-profit (TP) levels may not be reached, and markets can move quickly against you.</li>
+<li>Leverage can increase losses as much as it increases gains.</li>
+</ul>
+
+<h2>3. You trade at your own risk</h2>
+<ul>
+<li>You alone decide whether to place any trade, and you are fully responsible for the results.</li>
+<li>Do your own research and consider your financial situation, experience and goals before trading.</li>
+<li>If you need advice, speak to a licensed financial adviser in your country.</li>
+<li>Use a broker that is properly regulated where you live.</li>
+</ul>
+
+<h2>4. We do not verify content</h2>
+<p>We do not check, verify or endorse the accuracy of signals, claimed results, profiles or reviews. Be careful of anyone who promises guaranteed returns or asks you to send them money &mdash; please report them in the App.</p>
+
+<h2>5. No liability</h2>
+<p>To the maximum extent allowed by law, [COMPANY LEGAL NAME] is not responsible for any losses or damages you suffer from trading or from relying on any content in TradePool. See our <a href="terms.html">Terms of Use</a> for full details.</p>
+
+<h2>Contact</h2>
+<p>Email: <a href="mailto:appsupport@startumafrica.com">appsupport@startumafrica.com</a></p>
+
+<footer>
+<a href="privacy.html">Privacy Policy</a> &middot; <a href="terms.html">Terms of Use</a> &middot; <a href="disclaimer.html">Risk Disclaimer</a> &middot; <a href="delete-account.html">Delete Account</a>
+</footer>
+</body>
+</html>
