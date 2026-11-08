@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy - TradePool</title>
+<style>
+body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;max-width:760px;margin:0 auto;padding:32px 20px;line-height:1.6;color:#1a1a1a;background:#fff}
+h1{font-size:28px;margin-bottom:4px}
+h2{font-size:19px;margin-top:32px}
+.meta{color:#5c5c5c;font-size:14px}
+a{color:#1a1a1a}
+li{margin-bottom:6px}
+footer{margin-top:48px;padding-top:16px;border-top:1px solid #e2e2e2;font-size:14px;color:#5c5c5c}
+</style>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+<p class="meta">TradePool &middot; Effective date: November 8, 2026</p>
+
+<p>This Privacy Policy explains how [COMPANY LEGAL NAME] ("we", "us") collects, uses and shares information when you use the TradePool mobile app ("TradePool" or the "App"). By using TradePool you agree to this policy.</p>
+
+<h2>1. Information you give us</h2>
+<ul>
+<li><strong>Account details:</strong> email address and password (or your Google account name and email if you sign in with Google). Passwords are handled by our authentication provider and are never visible to us.</li>
+<li><strong>Profile details:</strong> display name, username (handle), bio, profile photo, phone number (if provided), trading styles, experience level and years of trading experience.</li>
+<li><strong>Content you create:</strong> channels (name, description, banner and avatar images), trading signals, feed posts and images, comments, chat messages and images, and channel reviews.</li>
+<li><strong>Reports:</strong> when you report content or a user, we store the report, the reason and the item reported.</li>
+<li><strong>Support messages:</strong> anything you send us by email.</li>
+</ul>
+
+<h2>2. Information collected when you use the App</h2>
+<ul>
+<li><strong>Activity:</strong> channels you join or mute, signals you follow, posts you like, messages you heart, and feed posts you view (recorded at most once per post per day, so creators can see their reach).</li>
+<li><strong>Device token:</strong> a push-notification token and your device platform, so we can send you notifications. You can turn notifications off in your device settings.</li>
+<li><strong>Technical logs:</strong> our hosting providers keep standard server logs (such as IP address and request time) for security and reliability.</li>
+</ul>
+<p>We do <strong>not</strong> use advertising, ad tracking, third-party analytics, or sell your personal information.</p>
+
+<h2>3. How we use information</h2>
+<ul>
+<li>To create and run your account and let you sign in.</li>
+<li>To show your profile and content to other users as described below.</li>
+<li>To deliver signals, chat messages and notifications.</li>
+<li>To show counts such as members, likes, views and ratings.</li>
+<li>To keep TradePool safe: review reports, remove content, and warn or suspend accounts that break our <a href="terms.html">Terms of Use</a>.</li>
+<li>To respond to your support requests and meet legal obligations.</li>
+</ul>
+
+<h2>4. What other users can see</h2>
+<ul>
+<li>Your display name, handle, bio, profile photo, trading styles and experience are visible to other users.</li>
+<li>Feed posts, comments and public channels are visible to all TradePool users. Signals and chat messages are visible to members of that channel.</li>
+<li>Reviews show your name unless you choose to hide it when posting.</li>
+<li><strong>Images you upload</strong> (profile photos, channel images, feed and chat images) are stored at public web addresses. Anyone who has the link to an image can open it, even outside the App. Do not upload images containing private information.</li>
+</ul>
+
+<h2>5. Service providers we share data with</h2>
+<p>We share information only with providers that help us run TradePool:</p>
+<ul>
+<li><strong>Supabase</strong> &mdash; database, user authentication and file storage.</li>
+<li><strong>Google</strong> &mdash; Google Sign-In (if you choose it) and Firebase Cloud Messaging for push notifications.</li>
+</ul>
+<p>These providers process data on our behalf and under their own security and privacy terms. Their servers may be located outside your country. We may also disclose information if required by law, or to protect the safety of our users or the public.</p>
+
+<h2>6. Security</h2>
+<p>Data is encrypted in transit (HTTPS) and stored with our hosting provider using industry-standard protections, including access rules that limit who can read and change each record. No system is perfectly secure, so we cannot guarantee absolute security.</p>
+
+<h2>7. How long we keep data</h2>
+<p>We keep your information while your account is active. When you delete your account, we delete your profile and the content linked to it as described on our <a href="delete-account.html">Account Deletion</a> page. We may keep limited records (for example, reports of rule violations) where needed for safety, fraud prevention or legal compliance.</p>
+
+<h2>8. Your choices and rights</h2>
+<ul>
+<li>Edit your profile at any time in the App (Profile &rarr; Edit profile).</li>
+<li>Turn off push notifications in your device settings.</li>
+<li>Delete your account and data &mdash; see <a href="delete-account.html">Account Deletion</a>.</li>
+<li>Ask for a copy of your data or ask us to correct it by emailing <a href="mailto:appsupport@startumafrica.com">appsupport@startumafrica.com</a>.</li>
+</ul>
+
+<h2>9. Age requirement</h2>
+<p>TradePool is only for people aged 18 or older. We do not knowingly collect information from anyone under 18. If you believe a minor has created an account, contact us and we will delete it.</p>
+
+<h2>10. Changes to this policy</h2>
+<p>We may update this policy. We will change the effective date above and, for significant changes, notify you in the App.</p>
+
+<h2>11. Contact</h2>
+<p>[COMPANY LEGAL NAME]<br>Email: <a href="mailto:appsupport@startumafrica.com">appsupport@startumafrica.com</a></p>
+
+<footer>
+<a href="privacy.html">Privacy Policy</a> &middot; <a href="terms.html">Terms of Use</a> &middot; <a href="disclaimer.html">Risk Disclaimer</a> &middot; <a href="delete-account.html">Delete Account</a>
+</footer>
+</body>
+</html>
